@@ -1,0 +1,1 @@
+print("Tyndyk Markiyan, AI-2024")
